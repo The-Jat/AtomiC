@@ -1,5 +1,7 @@
 # AtomiC
 
+A self made c compiler, currently in initial stages.
+
 ## Features
 
 - **Lexical Analysis (`--lex`)**: Tokenizes the input source code to identify keywords, identifiers, literals, and symbols.
