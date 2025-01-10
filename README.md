@@ -11,7 +11,7 @@ A self made c compiler, currently in initial stages.
 ## Requirements
 
 - **Compiler**: GCC or any C compiler supporting ANSI C.
-- **Platform**: Works on Linux, macOS, and Windows (with appropriate tools like MinGW or WSL).
+- **Platform**: Works on Linux, macOS, and Windows (with appropriate tools like MinGW or WSL) never tested though except linux.
 
 ## Installation
 
