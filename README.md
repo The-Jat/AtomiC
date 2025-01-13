@@ -1,6 +1,6 @@
 # AtomiC
 
-A self made c compiler, currently in initial stages.
+A self made c compiler, currently in initial stages (not production ready).
 
 ## Features
 
